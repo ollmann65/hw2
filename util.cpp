@@ -26,7 +26,7 @@ rawWords = convToLower(trim(rawWords));
         {
             if (temp.size() >= 2) 
             {
-                words.insert(temp);  /
+                words.insert(temp);  
             }
             temp.clear();  
         } else 
